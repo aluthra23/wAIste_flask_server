@@ -1,7 +1,5 @@
 # wAIste Flask Server
 
-## Overview
-
 The Flask server in this repository serves as the backend API for the wAIste waste management application. It handles image processing and interacts with machine learning models to categorize waste items and detect garbage. The server facilitates communication between the frontend mobile app and the AI models, enabling real-time waste management recommendations for users.
 
 ## Features
