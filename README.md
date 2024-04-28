@@ -27,4 +27,3 @@ To set up the wAIste Flask Server locally, follow these steps:
 ## Links
 
 - [wAIste Mobile App Repository](https://github.com/narainsriram2020/wAIste): GitHub repository for the wAIste mobile application.
-- [Flask Server Repository](https://github.com/aluthra23/wAIste_flask_server): GitHub repository for the wAIste Flask server.
